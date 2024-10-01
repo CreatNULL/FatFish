@@ -3,6 +3,13 @@
 ## 这是什么？
 
 ```text
+  一个提取网站中可能的参数，作为字典
+
+  我是个小丑，┭┮﹏┭┮。 看完了公共号文章，试试它说的插件，结果试了半天burpsuite报错，好好好，自己写。没想到写好了刷微信公号的时候看到了其他大佬写好的工具，还是俩，呜呜
+  - https://github.com/theLSA/burp-sensitive-param-extractor
+  - https://github.com/goddemondemongod/god_param?tab=readme-ov-file
+
+  胡言乱语:
       在很久很久的以前，有一个小男孩看到了一篇公众号，一个B站视频，讲的故事是一个未授权访问的故事，
    在看完后，内心似乎有感触，于是他决定写一个脚本！
        实现提取页面中可能的参数，这样POST请求未授权的时候，是不是概率会更高呢？但是作为脚本小子，怎么能自己动手！
